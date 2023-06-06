@@ -46,6 +46,7 @@ public class pg1 {
 			}
 			if(BMI>34) {
 				System.out.println("您的BMI指数为:"+BMI+"\n表现为:过度肥胖");
+				System.out.println("我这里修改了一段")
 			}
 		pg1.close();
 	}
